@@ -4,6 +4,7 @@
 
 # Key Features
 - Add / Create objects income or spending: with Name, Description, Value and True/False Statement (monthly/yearly)
+- Save data in realtime, loading data by start
 - Display objects on screen
 - Edit / Delete objects on screen
 - Calculation of income/spending values
