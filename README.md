@@ -1,5 +1,5 @@
 # Income / Spending Tracker App
-- classes created from scretch
+- classes created from scratch
 - main.py tkinter created with vibe coding / ai research
 
 # Key Features
