@@ -1,7 +1,8 @@
 Typ,Betrag,Name,Beschreibung,Monthly
 Einnahme,2300.0,Lohn,Max Mustermann,True
 Einnahme,3600.0,Gehalt,Erika Musterfrau,True
+Einnahme,0.01,Cent,Centeinkommenscheck,True
 Ausgabe,700.0,Miete,,True
 Ausgabe,260.0,Kredit 1,Bankredit,True
 Ausgabe,90.0,Strom,Stadtwerke,True
-Ausgabe,120.0,KFZ Steuer,Auto 1,False
+Ausgabe,120.0,KFZ Steuer,Auto 1,True

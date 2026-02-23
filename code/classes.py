@@ -18,7 +18,7 @@ class Wert:
             value = float(value)
         except (ValueError, TypeError):
             raise ValueError("Betrag muss eine Zahl sein")
-        if value < 1:
+        if value < 0.01:
             raise ValueError("Betrag kann nicht negativ oder Null sein")
         self._betrag = value
 

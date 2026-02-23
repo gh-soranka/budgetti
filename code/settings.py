@@ -19,7 +19,7 @@ MAX_NAME_LENGTH = 45
 def truncate_name(name, max_length=MAX_NAME_LENGTH):
     return name if len(name) <= max_length else name[:max_length-1] + "…"
 
-# Berechne zentrierte Start-Geometry
+# Fenster zentriert
 def get_geometry(master: Tk):
     screen_width = master.winfo_screenwidth()
     screen_height = master.winfo_screenheight()
